@@ -1,5 +1,16 @@
 # Emotion Detection Project Report
 
+Team Name :
+Member 1, SRN: Sairam S, PES1UG23AM257, [@s-sairam](https://github.com/s-sairam)
+
+Member 2, SRN: Shama Hegde, PES1UG23AM278, [@shamaphegde](https://github.com/shamaphegde)
+
+Member 3, SRN: Tanmaya Karanth, PES1UG23AM335, [@tanmayakaranth](https://github.com/tanmayakaranth)
+
+
+
+
+
 ## 1. Approach
 
 ### 1.1 Problem Formulation
